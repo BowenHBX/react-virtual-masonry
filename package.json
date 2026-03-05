@@ -1,5 +1,5 @@
 {
-  "name": "react-virtual-masonry",
+  "name": "@bowen/react-virtual-masonry",
   "version": "0.1.0",
   "description": "A virtualized masonry layout component for React.",
   "main": "dist/index.cjs",
@@ -36,6 +36,9 @@
   ],
   "author": "",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "peerDependencies": {
     "react": ">=18"
   },
