@@ -18,13 +18,13 @@ It is designed for long, append-only feeds with variable-height cards, where you
 ## Installation
 
 ```bash
-npm install @bowen/react-virtual-masonry
+npm install @bowenhuang/react-virtual-masonry
 ```
 
 ## Quick Start
 
 ```tsx
-import { VirtualMasonry } from '@bowen/react-virtual-masonry';
+import { VirtualMasonry } from '@bowenhuang/react-virtual-masonry';
 
 type Item = { id: string; title: string; cover: string };
 

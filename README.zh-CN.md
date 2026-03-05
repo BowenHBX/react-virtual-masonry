@@ -18,13 +18,13 @@
 ## 安装
 
 ```bash
-npm install @bowen/react-virtual-masonry
+npm install @bowenhuang/react-virtual-masonry
 ```
 
 ## 快速使用
 
 ```tsx
-import { VirtualMasonry } from '@bowen/react-virtual-masonry';
+import { VirtualMasonry } from '@bowenhuang/react-virtual-masonry';
 
 type Item = { id: string; title: string; cover: string };
 

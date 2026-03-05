@@ -1,5 +1,5 @@
 {
-  "name": "@bowen/react-virtual-masonry",
+  "name": "@bowenhuang/react-virtual-masonry",
   "version": "0.1.0",
   "description": "A virtualized masonry layout component for React.",
   "main": "dist/index.cjs",
