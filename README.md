@@ -108,7 +108,33 @@ Use a getter function:
 ```bash
 npm install
 npm run typecheck
+npm run test
 npm run build
+```
+
+## Run Demo
+
+```bash
+npm install
+npm run demo
+```
+
+Build demo static assets:
+
+```bash
+npm run demo:build
+```
+
+## Test
+
+```bash
+npm run test
+```
+
+Watch mode:
+
+```bash
+npm run test:watch
 ```
 
 ## License

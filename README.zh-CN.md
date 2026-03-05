@@ -108,7 +108,33 @@ export default function Demo({ items }: { items: Item[] }) {
 ```bash
 npm install
 npm run typecheck
+npm run test
 npm run build
+```
+
+## 运行 Demo
+
+```bash
+npm install
+npm run demo
+```
+
+构建 Demo 静态资源：
+
+```bash
+npm run demo:build
+```
+
+## 运行测试
+
+```bash
+npm run test
+```
+
+监听模式：
+
+```bash
+npm run test:watch
 ```
 
 ## License
